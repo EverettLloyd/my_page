@@ -1,6 +1,7 @@
 ---
 title: Резюме Артёма Корниенко
 layout: default
+<link rel="stylesheet" href="style.css">
 ---
 
 # О себе
